@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    padding-top: 17px;
+    background-color: #1b1b1b;
+}
+
+.itemTable {
+    width: 100%;
+}
+
+.tableItems {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
